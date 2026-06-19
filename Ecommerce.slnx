@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Ecommerce.AppHost/Ecommerce.AppHost.csproj" />
+  <Project Path="Ecommerce.Model/Ecommerce.Model.csproj" />
+  <Project Path="Ecommerce.OrderService/Ecommerce.OrderService.csproj" />
+  <Project Path="Ecommerce.ProductService/Ecommerce.ProductService.csproj" />
+  <Project Path="Ecommerce.Web/Ecommerce.Web.csproj" />
+</Solution>

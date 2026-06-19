@@ -1,0 +1,17 @@
+﻿<Project Sdk="Aspire.AppHost.Sdk/13.1.0">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <UserSecretsId>1526db93-7d26-4b1b-8fd3-8cfdb1f89371</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Ecommerce.OrderService\Ecommerce.OrderService.csproj" />
+    <ProjectReference Include="..\Ecommerce.ProductService\Ecommerce.ProductService.csproj" />
+    <ProjectReference Include="..\Ecommerce.Web\Ecommerce.Web.csproj" />
+  </ItemGroup>
+
+</Project>
